@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"the-go-programming-language-practice/ch2/packages-and-files/tempconv"
+	"the-go-programming-language-practice/ch2/packages-and-files/converter/tempconv"
 )
 
 func main() {
