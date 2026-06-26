@@ -27,7 +27,6 @@ func main() {
 			cx, cy := corner(i, j+1)
 			dx, dy := corner(i+1, j+1)
 			fmt.Printf("<polygon points='%g,%g %g,%g %g,%g %g,%g'/>\n",
-
 				ax, ay, bx, by, cx, cy, dx, dy)
 		}
 	}
